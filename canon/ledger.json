@@ -1,0 +1,86 @@
+[
+  {
+    "key": "距定名天数",
+    "value": "6",
+    "unit": "天",
+    "fromChapter": 1
+  },
+  {
+    "key": "王小笛名单人数",
+    "value": "41",
+    "unit": "人",
+    "fromChapter": 1
+  },
+  {
+    "key": "周妍所说班级人数",
+    "value": "40",
+    "unit": "人",
+    "fromChapter": 1
+  },
+  {
+    "key": "手册总页数",
+    "value": "48",
+    "unit": "页",
+    "fromChapter": 1
+  },
+  {
+    "key": "赵一鸣所说手册最后一页",
+    "value": "49",
+    "unit": "页",
+    "fromChapter": 1
+  },
+  {
+    "key": "倒计时天数",
+    "value": "5",
+    "unit": "天",
+    "fromChapter": 2
+  },
+  {
+    "key": "林昭手册页码",
+    "value": "43",
+    "unit": "页",
+    "fromChapter": 3
+  },
+  {
+    "key": "王小笛手册页码",
+    "value": "48",
+    "unit": "页",
+    "fromChapter": 3
+  },
+  {
+    "key": "林昭手册考场编号",
+    "value": "01",
+    "unit": "号",
+    "fromChapter": 3
+  },
+  {
+    "key": "王小笛手册考场编号",
+    "value": "03",
+    "unit": "号",
+    "fromChapter": 3
+  },
+  {
+    "key": "旧手册页码",
+    "value": "36",
+    "unit": "页",
+    "fromChapter": 3
+  },
+  {
+    "key": "林昭手册页码",
+    "value": "12",
+    "unit": "页",
+    "fromChapter": 4
+  },
+  {
+    "key": "赵一鸣收集物件数",
+    "value": "5",
+    "unit": "件",
+    "fromChapter": 4
+  },
+  {
+    "key": "林昭手中眼镜盒数",
+    "value": "2",
+    "unit": "个",
+    "fromChapter": 4
+  }
+]

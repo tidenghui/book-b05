@@ -1,0 +1,66 @@
+[
+  {
+    "id": "g1-1",
+    "text": "赵一鸣看到桌底“49”刻痕后立刻改口说不认识陈默，暗示刻痕或数字49与遗忘机制有关。",
+    "plantedAt": 1,
+    "dueBy": 15,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g1-2",
+    "text": "赵一鸣从书包里翻出没写名字的深蓝色手册，手册来源和内容待揭示。",
+    "plantedAt": 1,
+    "dueBy": 10,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g2-1",
+    "text": "周妍拒绝交出笔记，她记了什么内容尚未揭示。",
+    "plantedAt": 2,
+    "dueBy": 8,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g2-2",
+    "text": "陈默草稿纸正面数字列中孤立的“49”与周妍课本第49页小孔可能有关联。",
+    "plantedAt": 2,
+    "dueBy": 15,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g3-1",
+    "text": "老石旧手册扉页上被橡皮磨掉的名字是谁？",
+    "plantedAt": 3,
+    "dueBy": 15,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g3-2",
+    "text": "王小笛在早读结束后失踪，去了哪里？",
+    "plantedAt": 3,
+    "dueBy": 15,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g4-1",
+    "text": "林昭手册第十三页整页消失且无撕痕，页码从四十三变十二，消失原因与规则待揭示。",
+    "plantedAt": 4,
+    "dueBy": 10,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g4-2",
+    "text": "老石电话中“今年又不够数”的“数”指什么，与收集物件/手册规则是否有关。",
+    "plantedAt": 4,
+    "dueBy": 12,
+    "paidAt": null,
+    "importance": 2
+  }
+]

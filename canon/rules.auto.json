@@ -1,0 +1,35 @@
+[
+  {
+    "who": "linzhao",
+    "aliases": [
+      "林昭"
+    ],
+    "cannotSay": [
+      "任何方式交流，包括书写"
+    ],
+    "why": "手册第3条明文禁止",
+    "sinceChapter": 2
+  },
+  {
+    "who": "laoshi",
+    "aliases": [
+      "老石"
+    ],
+    "cannotSay": [
+      "年份"
+    ],
+    "why": "说“年份不能问”，并叮嘱别跟别人说",
+    "sinceChapter": 3
+  },
+  {
+    "who": "zhouyan",
+    "aliases": [
+      "周妍"
+    ],
+    "cannotSay": [
+      "关于“数”的追问"
+    ],
+    "why": "警告林昭别去问，问多了会被记住脸",
+    "sinceChapter": 4
+  }
+]
